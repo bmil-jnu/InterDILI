@@ -8,7 +8,7 @@ We provide supproting code and instructions to reproduce the models and results 
 
 - [Data](https://github.com/bmil-jnu/InterDILI/blob/main/Data%20Collection/Total_dataset.csv)
 - [Molecular Descriptors](https://github.com/bmil-jnu/InterDILI/tree/main/Molecular%20Descriptors)
-- Feature Importance
+  
   
 ## Dependency 
 
