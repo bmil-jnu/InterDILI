@@ -6,7 +6,7 @@ Authors: *Soyeon Lee, Sunyong Yoo*
 
 We provide supproting code and instructions to reproduce the models and results presented in our manuscript
 
-- Data
+- [Data](https://github.com/bmil-jnu/InterDILI/blob/main/Data%20Collection/Total_dataset.csv)
 - Molecular Descriptors
 - Machine Learning
 - Feature Importance
