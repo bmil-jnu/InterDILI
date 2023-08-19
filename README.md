@@ -6,7 +6,7 @@ Authors: *Soyeon Lee, Sunyong Yoo*
 
 We provide supproting code and instructions to reproduce the models and results presented in our manuscript
 
-- Data collection
+- Data Collection
 - Molecular Descriptors
 - Machine Learning
 - Feature Importance
