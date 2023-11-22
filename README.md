@@ -6,7 +6,7 @@ Authors: *Soyeon Lee, Sunyong Yoo*
 
 We provide supproting code and instructions to reproduce the models and results presented in our manuscript
 
-- [Data collection]([https://github.com/bmil-jnu/InterDILI/blob/main/Data%20Collection]
+- [Data collection](https://github.com/bmil-jnu/InterDILI/blob/main/Data%20Collection)
 - [Molecular Descriptors](https://github.com/bmil-jnu/InterDILI/tree/main/Molecular%20Descriptors)
 - [Model Learning and evaluation](https://github.com/bmil-jnu/InterDILI/tree/main/Model%20Learning%20and%20evaluation)
 - [Permutation Feature Importance](https://github.com/bmil-jnu/InterDILI/tree/main/Permutation%20Feature%20Importance)
