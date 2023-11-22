@@ -8,7 +8,7 @@ We provide supproting code and instructions to reproduce the models and results 
 
 - [Data Collection](https://github.com/bmil-jnu/InterDILI/blob/main/Data%20Collection)
 - [Molecular Descriptors](https://github.com/bmil-jnu/InterDILI/tree/main/Molecular%20Descriptors)
-- [Model Learning and evaluation](https://github.com/bmil-jnu/InterDILI/tree/main/Model%20Learning%20and%20Evaluation)
+- [Model Learning and evaluation](https://github.com/bmil-jnu/InterDILI/tree/main/Model%20Learning%20and%20evaluation)
 - [Permutation Feature Importance](https://github.com/bmil-jnu/InterDILI/tree/main/Permutation%20Feature%20Importance)
 - [Attention Score Analysis](https://github.com/bmil-jnu/InterDILI/tree/main/Attention%20Score%20Analysis)
   
